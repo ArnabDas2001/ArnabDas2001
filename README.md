@@ -1,14 +1,10 @@
- ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=ArnabDas2001.ArnabDas2001)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=ArnabDas2001.ArnabDas2001)
 
-&lt;h1 align="center"&gt; Hello, &lt;img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Arnab Das ✨</h1>
 
-         alt="Waving hand animated gif"
-
-         height="45"
-
-         width="45" /&gt; I'm A&lt;/h1&gt;
-
-​
 
 # 💫 About Me :
 
@@ -18,26 +14,34 @@
 
 - 🌱 Currently learning more about Web Development.
 
-​
+
 
 ## 🌐 Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnab-das-363247251/)]
-(https://www.linkedin.com/in/arnab-das-363247251/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnab-das-363247251/)](https://www.linkedin.com/in/arnab-das-363247251/)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dasarnab389@gmail.com)](mailto:dasarnab389@gmail.com)
 
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dasarnab389@gmail.com)]
-(mailto:dasarnab389@gmail.com)
 
-​
-## 📈 Stats
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;img src="https://github-readme-stats.vercel.app/api?username=ArnabDas2001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/&gt;
-&lt;td&gt;&lt;img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabDas2001&show_icons=true&locale=en&layout=compact&theme=tokyonight" /&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;p align="center"&gt;
-&lt;img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ArnabDas2001&theme=prussian"/&gt;
-&lt;/p&gt;
+## 🔎Languages & Tools:
+<p>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+</p>
+ 
+ 
+ ## 📈 Stats
+[![arnab's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArnabDas2001&theme=blue)](https://github.com/ArnabDas2001/github-readme-activity-graph)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=ArnabDas2001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabDas2001&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ArnabDas2001&theme=tokyonight"/>
+</p>
