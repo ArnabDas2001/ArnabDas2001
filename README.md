@@ -33,11 +33,11 @@
  
  
  ## 📈 Stats
-[![arnab's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArnabDas2001&theme=blue)](https://github.com/ArnabDas2001/github-readme-activity-graph)
+[![Arnab's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArnabDas2001&theme=blue)](https://github.com/ArnabDas2001/github-readme-activity-graph)
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=ArnabDas2001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/apiusername=ArnabDas2001&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabDas2001&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
