@@ -29,7 +29,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://github.com/ArnabDas2001/ArnabDas2001/assets/102038057/3b59d782-83be-43f3-8914-a1a4bdc62dd7" alt="react" width="30" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://github.com/ArnabDas2001/ArnabDas2001/assets/102038057/3b59d782-83be-43f3-8914-a1a4bdc62dd7" alt="figma" width="30" height="40"/> </a>
 </p>
 
  ## 📈 Stats
