@@ -30,9 +30,7 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 </p>
-<a href="https://www.figma.com/" target="_blank"><img src="https://s3-alpha.figma.com/hub/file/2714532645/a552ea5c-29b8-444a-b94b-f349d1e98ac8-cover.png" alt="figma" width="40" height="40"/> </a>
-</p>
- 
+
  ## 📈 Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabDas2001&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
