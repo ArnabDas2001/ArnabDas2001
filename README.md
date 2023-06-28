@@ -30,6 +30,7 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="figma" width="30" height="40"/></a>
+<a href="https://www.dora.run/" target="_blank"><img src="https://cdn-static-e.dora.run/dora_runner/ai_logomark.be18b93a6a705616.png" alt="dora" width="40" height="40" border-radius="50%"/></a>        
 </p>
 
  ## 📈 Stats
