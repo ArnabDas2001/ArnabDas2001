@@ -1,4 +1,4 @@
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=ArnabDas2001.ArnabDas2001)
+![Visitor count](https://komarev.com/ghpvc/?username=PriyoRaven&color=blue&style=plastic&label=TOTAL+VISITORS)
 
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
          alt="Waving hand animated gif"
