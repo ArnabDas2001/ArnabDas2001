@@ -28,6 +28,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://jquery.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" alt="JQuery" width="40" height="40"/>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="figma" width="30" height="40"/></a>
 <a href="https://www.dora.run/" target="_blank"><img src="https://cdn-static-e.dora.run/dora_runner/ai_logomark.be18b93a6a705616.png" alt="dora" width="40" height="40" border-radius="50%"/></a>        
