@@ -29,6 +29,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://jquery.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" alt="JQuery" width="40" height="40"/>
+<a href="https://nodejs.org/en" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodeJS" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" alt="expressJS" width="40" height="40"/> </a>
+<a href="https://www.npmjs.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-3xqnd60o.png" alt="npm" width="40" height="40"/> </a>
+<a href="https://ejs.co/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="EJS" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="figma" width="30" height="40"/></a>
 <a href="https://www.dora.run/" target="_blank"><img src="https://cdn-static-e.dora.run/dora_runner/ai_logomark.be18b93a6a705616.png" alt="dora" width="40" height="40" border-radius="50%"/></a>        
